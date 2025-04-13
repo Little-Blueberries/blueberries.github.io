@@ -93,6 +93,7 @@ section img {
 .update {
     color: black;
     font-weight: bold;
+    font-style: italic;
     margin-top: -1em;
 }
 
