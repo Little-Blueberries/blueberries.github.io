@@ -81,6 +81,10 @@ section img {
     max-width: 80%;
 }
 
+section .small {
+    max-width: 50%;
+}
+
 /* Faster style */
 .bold {font-weight: bold;}
 
